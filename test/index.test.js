@@ -1,5 +1,5 @@
-const sum = require('./Index');
+const getPercent = require('./Index');
 
-test('adds 1 + 2 to equal 3', () => {
-  expect(sum(1, 2)).toBe(3);
+test('percentage of the number', () => {
+  expect(getPercent(25, 100)).toBe(30);
 });

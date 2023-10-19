@@ -15,5 +15,9 @@
     "babel-jest": "^29.7.0",
     "jest": "^29.7.0"
   },
-  "repository": "https://github.com/Shisha1536/module17_homework.git"
+  "repository": "https://github.com/Shisha1536/module17_homework.git",
+  "dependencies": {
+    "browser-sync": "^2.29.3",
+    "jquery": "^3.7.1"
+  }
 }

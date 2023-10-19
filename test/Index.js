@@ -1,4 +1,4 @@
-function sum(a, b) {
-    return a + b;
+function getPercent(percent, number) {
+    return percent / number * 100;
 }
-module.exports = sum;
+module.exports = getPercent;
