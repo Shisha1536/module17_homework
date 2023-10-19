@@ -7,12 +7,13 @@
     "test": "jest"
   },
   "keywords": [],
-  "author": "",
+  "author": "Shisha1536 <schischkoff2017@yandex.ru>",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.23.2",
     "@babel/preset-env": "^7.23.2",
     "babel-jest": "^29.7.0",
     "jest": "^29.7.0"
-  }
+  },
+  "repository": "https://github.com/Shisha1536/module17_homework.git"
 }
